@@ -3,11 +3,15 @@
 ## Linear Regression to Predict MPG
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-* spoiler angle, intercept, and vehicle weight
+* Spoiler angle, intercept, and vehicle weight
 
-![](png/linear.png)
+- ![](png/linear.png)
 
-![](png/linear1.png)
+
+
+
+
+- ![](png/linear1.png)
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
@@ -21,9 +25,13 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 In our summary, the variance allowed us to note that suspension coils may not be greater than 100 lbs per inch. Therefore, the current manufacturing data meets this design specification for all manufacturing lots in total and each lot individually because of the variance.
 
-![](png/variance.png)
+- ![](png/variance.png)
 
-![](png/variance2.png)
+
+
+
+
+- ![](png/variance2.png)
 
 ## T-Tests on Suspension Coils
 
